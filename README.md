@@ -1,5 +1,5 @@
 # Data Anaysis using R and Power BI
-Using Hollywood Movie csv to showcase explorating and cleaning with R in RStudio and visualising
+Using Hollywood Movie csv to showcase exploring and cleaning with R in RStudio and visualising
 the data in PowerBI dashboards
 
 ## Techniques Used in R
